@@ -13,7 +13,7 @@ export default function Home() {
     { id: 'sign-to-text', label: 'Sign → Text' },
     { id: 'text-to-sign', label: 'Text → Sign' },
     { id: 'audio-to-sign', label: 'Audio → Sign' },
-    { id: 'settings', label: 'Settings', icon: '⚙️' },
+    { id: 'settings', label: 'Settings' },
   ];
 
   return (
